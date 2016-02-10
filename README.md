@@ -1,2 +1,2 @@
-# sittin-pg
-A postgres backend for sittin
+# site-inspector-backend-pg
+A postgres backend for site-inspector

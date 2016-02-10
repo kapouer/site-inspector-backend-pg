@@ -1,0 +1,25 @@
+{
+  "name": "site-inspector-backend-pg",
+  "version": "0.0.0",
+  "description": "A postgres backend for sittin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kapouer/sittin-pg.git"
+  },
+  "keywords": [
+    "search",
+    "crawl",
+    "index",
+    "site",
+    "pg"
+  ],
+  "author": "Jérémy Lal <kapouer@melix.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kapouer/sittin-pg/issues"
+  }
+}
